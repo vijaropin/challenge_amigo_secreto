@@ -1,0 +1,4 @@
+//variables
+// encontrar las variaNLES
+// 
+
