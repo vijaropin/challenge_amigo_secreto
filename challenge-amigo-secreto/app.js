@@ -55,7 +55,6 @@ function sortearAmigo() {
         alert('Necesitas al menos dos amigos para hacer el sorteo.');
         return;
     }
-
     /* 18. Elegir un número aleatorio que sea un índice de nuestra lista.
     "Math.random()" da un número entre 0 y 1.
     Lo multiplicamos por la cantidad de amigos para que el resultado esté dentro del rango.
